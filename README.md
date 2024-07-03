@@ -22,7 +22,7 @@ _This is Normal Text_
 2. Virat Kholi
 3. MS Dhoni
 
-![Munna](image/saif.png)
+![Munna](image/saif.jpg)
 
 |Name|Age|
 |-----|--|
